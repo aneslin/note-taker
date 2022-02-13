@@ -21,5 +21,8 @@ Create reminders for yourself.  Enter note title and note text, and click the sa
 To delete, select the note and click the trash icon
 
 
-Deployed URL:
-http://
+## Deployed URL:
+https://amn-note-taker.herokuapp.com/ 
+
+## Screenshot
+![note taker screenshot](./noteTaker.jpg)
